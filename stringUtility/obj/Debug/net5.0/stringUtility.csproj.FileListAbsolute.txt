@@ -1,0 +1,12 @@
+C:\Users\danie\apps\stringUtility\bin\Debug\net5.0\stringUtility.deps.json
+C:\Users\danie\apps\stringUtility\bin\Debug\net5.0\stringUtility.dll
+C:\Users\danie\apps\stringUtility\bin\Debug\net5.0\ref\stringUtility.dll
+C:\Users\danie\apps\stringUtility\bin\Debug\net5.0\stringUtility.pdb
+C:\Users\danie\apps\stringUtility\obj\Debug\net5.0\stringUtility.csprojAssemblyReference.cache
+C:\Users\danie\apps\stringUtility\obj\Debug\net5.0\stringUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\apps\stringUtility\obj\Debug\net5.0\stringUtility.AssemblyInfoInputs.cache
+C:\Users\danie\apps\stringUtility\obj\Debug\net5.0\stringUtility.AssemblyInfo.cs
+C:\Users\danie\apps\stringUtility\obj\Debug\net5.0\stringUtility.csproj.CoreCompileInputs.cache
+C:\Users\danie\apps\stringUtility\obj\Debug\net5.0\stringUtility.dll
+C:\Users\danie\apps\stringUtility\obj\Debug\net5.0\ref\stringUtility.dll
+C:\Users\danie\apps\stringUtility\obj\Debug\net5.0\stringUtility.pdb
